@@ -1,3 +1,4 @@
+# TO FIND THE FACTORIAL OF A NUMBER
 # Task 1
 a=int(input("Enter a number: "))
 def factorial(a):
@@ -9,7 +10,7 @@ def factorial(a):
 b=factorial(a)
 print("The factorial of", a, "is", b)
 
-
+# TO FIND THE SQUARE ROOT, LOGARITHM AND SINE OF A NUMBER
 # Task 2
 import math
 b=int(input("enter a number:"))
