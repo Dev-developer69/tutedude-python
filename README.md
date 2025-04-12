@@ -21,3 +21,8 @@ TASK 1
  TASK 2
  
 FOUND THE SQUARE ROOT, LOGARITHM AND SINE OF A NUMBER
+
+ASSIGNMENT 4
+Opening and reading of the sample.txt file
+
+
